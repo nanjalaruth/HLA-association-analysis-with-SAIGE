@@ -1,4 +1,4 @@
-# HLA PheWAS using SAIGE (Nextflow pipeline)
+# HLA association analysis using SAIGE (Nextflow pipeline)
 
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A520.10.0-brightgreen.svg)](https://www.nextflow.io/)
 [![SAIGE](https://img.shields.io/badge/SAIGE-1.1.6.3-blue.svg)](https://saigegit.github.io/SAIGE-doc/)
